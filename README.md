@@ -1,7 +1,6 @@
 
-![Estelle Darcy](https://user-images.githubusercontent.com/83193580/174710574-f45005ee-b05d-4569-b2d2-308c5393cf9d.png)
+<!--![Black Minimal Motivation Quote LinkedIn Banner](https://user-images.githubusercontent.com/83193580/174711362-36062903-d776-4584-b0d6-ebec4c0cf7f6.png)
 
-<!--
 **JoeNeedham/joeneedham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
