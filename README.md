@@ -1,5 +1,6 @@
 
 <!--![Black Minimal Motivation Quote LinkedIn Banner](https://user-images.githubusercontent.com/83193580/174711362-36062903-d776-4584-b0d6-ebec4c0cf7f6.png)
+![Black Minimal Motivation Quote LinkedIn Banner](https://user-images.githubusercontent.com/83193580/174711422-68045a84-e0c9-49ad-916f-a0de211ec2d9.png)
 
 **JoeNeedham/joeneedham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
