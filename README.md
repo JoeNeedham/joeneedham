@@ -1,6 +1,5 @@
-### Hi there 👋
 
-![Joe Needham-banner](https://user-images.githubusercontent.com/83193580/174709988-a08ac882-f004-4690-882f-e84539d779dd.png)
+![Estelle Darcy](https://user-images.githubusercontent.com/83193580/174710574-f45005ee-b05d-4569-b2d2-308c5393cf9d.png)
 
 <!--
 **JoeNeedham/joeneedham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
