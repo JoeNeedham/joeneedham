@@ -2,7 +2,7 @@
 
 About Me
 
-  A full stack developer who prefers frontend development.
+  A full stack developer who wants to dive deeper in tech.
   
   Learning while also creating connections with code is my goal here. 
   
