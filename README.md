@@ -1,4 +1,6 @@
-![image (1)](https://user-images.githubusercontent.com/83193580/174712929-81ef41e4-0f31-4c1a-83e3-7022b1948a8f.png)
+<!--![image (1)](https://user-images.githubusercontent.com/83193580/174712929-81ef41e4-0f31-4c1a-83e3-7022b1948a8f.png) -->
+
+FULL STACK DEVELOPER
 
 About Me
 
